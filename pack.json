@@ -1,0 +1,16 @@
+{
+  "name": "Wii Sports SFX Pack",
+  "author": "IvanGamer004",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [
+    "bumper_end.wav",
+    "confirmation_negative.wav",
+    "confirmation_positive.wav",
+    "deck_ui_misc_01.wav",
+    "deck_ui_misc_08.wav",
+    "pop_sound.wav"
+
+  ]
+}
